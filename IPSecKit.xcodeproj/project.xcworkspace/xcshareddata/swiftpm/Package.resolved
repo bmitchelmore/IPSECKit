@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/bmitchelmore/BigInt",
+        "state": {
+          "branch": "master",
+          "revision": "7bd99f7ebb8886cd3a0dfac26fea9c1049027a08",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
